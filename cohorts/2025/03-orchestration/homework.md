@@ -1,6 +1,4 @@
-## Homework
-
-Solution: https://www.loom.com/share/802c8c0b843a4d3bbd9dbea240c3593a
+## Homework [DRAFT]
 
 The goal of this homework is to create a simple training pipeline, use mlflow to track experiments and register best model, but use Mage for it.
 
